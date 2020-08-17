@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created using React JS & Materialize CSS
 
-## Available Scripts
+live preview : https://webstain-reactjs-cart.netlify.app/
 
 In the project directory, you can run:
 
